@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=YusuKe010)](https://github.com/YusuKe010/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=YusuKe010a&theme=onedark)](https://github.com/YusuKe010/github-profile-trophy)
 
